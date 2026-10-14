@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Leak",
+  "description": "Smart personal expense tracker with budget monitoring, category insights, small recurring leak calculations, CSV export, and JSON backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
